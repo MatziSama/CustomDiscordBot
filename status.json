@@ -1,0 +1,30 @@
+[
+    {
+        "name": "Hora de aventura",
+        "type": "watch"
+    },
+    {
+        "name": "Michael Jackson - You are my life",
+        "type": "listening"
+    },
+    {
+        "name": "League of Legends",
+        "type": "play"
+    },
+    {
+        "name": "New West - Those eyes",
+        "type": "listening"
+    },
+    {
+        "name": "Tatsuro Yamashita - Fragile",
+        "type": "listening"
+    },
+    {
+        "name": "Minecraft",
+        "type": "play"
+    },
+    {
+        "name": "Geometry Dash",
+        "type": "play"
+    }
+]
